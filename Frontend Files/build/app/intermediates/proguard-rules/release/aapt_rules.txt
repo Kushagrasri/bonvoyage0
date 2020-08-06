@@ -1,0 +1,8 @@
+# Referenced at C:\Users\Kushagra Srivastava\project\Bon-Voyage\Frontend Files\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Kushagra Srivastava\project\Bon-Voyage\Frontend Files\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:36
+-keep class com.example.bon_voyage.MainActivity { <init>(); }
+# Referenced at C:\Users\Kushagra Srivastava\project\Bon-Voyage\Frontend Files\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:82
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\Kushagra Srivastava\project\Bon-Voyage\Frontend Files\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class io.flutter.app.FlutterApplication { <init>(); }
